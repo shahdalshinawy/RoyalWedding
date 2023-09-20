@@ -1,0 +1,624 @@
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Main.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Main.deps.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Main.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Main.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Staff.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Staff.baml
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.g.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\refint\Main.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\ref\Main.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Customer.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Menu.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Main_Content.g.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\bin\Debug\net7.0-windows\weddingHall.png
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Customer.baml
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Main\obj\Debug\net7.0-windows\Menu.baml
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Main.exe
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\weddingHall.png
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Main.deps.json
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Main.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Main.pdb
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+G:\Esraa\C#\Project\New folder (3)\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Customer.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Menu.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Staff.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\App.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main_Content.g.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Customer.baml
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Menu.baml
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Staff.baml
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.g.resources
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.dll
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\refint\Main.dll
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.pdb
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+G:\Esraa\C#\Project\New folder (3)\Main\obj\Debug\net7.0-windows\ref\Main.dll
+F:\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+F:\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+F:\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+F:\Main\bin\Debug\net7.0-windows\Main.exe
+F:\Main\bin\Debug\net7.0-windows\weddingHall.png
+F:\Main\bin\Debug\net7.0-windows\Main.deps.json
+F:\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+F:\Main\bin\Debug\net7.0-windows\Main.dll
+F:\Main\bin\Debug\net7.0-windows\Main.pdb
+F:\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+F:\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+F:\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+F:\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+F:\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+F:\Main\obj\Debug\net7.0-windows\Customer.g.cs
+F:\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Main\obj\Debug\net7.0-windows\Menu.g.cs
+F:\Main\obj\Debug\net7.0-windows\Staff.g.cs
+F:\Main\obj\Debug\net7.0-windows\App.g.cs
+F:\Main\obj\Debug\net7.0-windows\Main_Content.g.cs
+F:\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+F:\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+F:\Main\obj\Debug\net7.0-windows\Customer.baml
+F:\Main\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Main\obj\Debug\net7.0-windows\Menu.baml
+F:\Main\obj\Debug\net7.0-windows\Staff.baml
+F:\Main\obj\Debug\net7.0-windows\Main.g.resources
+F:\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+F:\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+F:\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+F:\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+F:\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+F:\Main\obj\Debug\net7.0-windows\Main.dll
+F:\Main\obj\Debug\net7.0-windows\refint\Main.dll
+F:\Main\obj\Debug\net7.0-windows\Main.pdb
+F:\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+F:\Main\obj\Debug\net7.0-windows\ref\Main.dll
+F:\Main\obj\Debug\net7.0-windows\Booking.g.cs
+F:\Main\obj\Debug\net7.0-windows\Booking.baml
+F:\Main\obj\Debug\net7.0-windows\BookingView.g.cs
+F:\Main\obj\Debug\net7.0-windows\BookingView.baml
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Main.exe
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Main.deps.json
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Main.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Main.pdb
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+D:\ITI intake 43\C#\Project\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Booking.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\BookingView.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Customer.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Menu.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Staff.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\App.g.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Booking.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\BookingView.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Customer.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Menu.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Staff.baml
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.g.resources
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.dll
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\refint\Main.dll
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.pdb
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+D:\ITI intake 43\C#\Project\Main\obj\Debug\net7.0-windows\ref\Main.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Main.exe
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Main.deps.json
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Main.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Main.pdb
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\App.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.g.resources
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.dll
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\refint\Main.dll
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.pdb
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\ref\Main.dll
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.baml
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\H.NotifyIcon.dll
+E:\ITI 9 Month\C#\Project (2)\Main\bin\Debug\net7.0-windows\NotifyIconWpf.dll
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingReport.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\BookingReport.baml
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.g.cs
+E:\ITI 9 Month\C#\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.baml
+E:\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+E:\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+E:\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Main.exe
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Main.deps.json
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Main.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Main.pdb
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\H.NotifyIcon.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\NotifyIconWpf.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+E:\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+E:\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\App.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+E:\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.g.resources
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.dll
+E:\Project (2)\Main\obj\Debug\net7.0-windows\refint\Main.dll
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.pdb
+E:\Project (2)\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+E:\Project (2)\Main\obj\Debug\net7.0-windows\ref\Main.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Main.exe
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Main.deps.json
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Main.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Main.pdb
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\H.NotifyIcon.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\NotifyIconWpf.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.baml
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.g.resources
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\refint\Main.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.pdb
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\ref\Main.dll
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.g.cs
+C:\Users\Electronica Care\Desktop\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.g.cs
+E:\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.baml
+E:\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.deps.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.runtimeconfig.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.exe
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Main.exe
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Main.deps.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Main.runtimeconfig.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Main.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Main.pdb
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\H.NotifyIcon.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\NotifyIconWpf.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\WeddingPlanner.pdb
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.AssemblyReference.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\App.g.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main_MarkupCompile.lref
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\BookingMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\BookingViewMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\CustomerMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\MenuMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\ProfitMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\ReportMDI.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\StaffMDI2.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\StartWindow.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\welcoming.baml
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.g.resources
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfoInputs.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.AssemblyInfo.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CoreCompileInputs.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.csproj.CopyComplete
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\refint\Main.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.pdb
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\Main.genruntimeconfig.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\obj\Debug\net7.0-windows\ref\Main.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\Main\bin\Debug\net7.0-windows\Mono.TextTemplating.dll

@@ -1,0 +1,622 @@
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+D:\ITI intake 43\C#\Project\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+G:\Esraa\C#\Project\New folder (3)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+F:\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+F:\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+F:\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+F:\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+F:\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+F:\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+F:\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+F:\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+F:\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\H.NotifyIcon.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ITI 9 Month\C#\Project (2)\WeddingPlanner\bin\Debug\net7.0\NotifyIconWpf.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\H.NotifyIcon.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\NotifyIconWpf.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+E:\Project (2)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\H.NotifyIcon.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\NotifyIconWpf.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\H.NotifyIcon.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\NotifyIconWpf.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\Project (2)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.exe
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.deps.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.runtimeconfig.json
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\WeddingPlanner.pdb
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Core.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Azure.Identity.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\H.NotifyIcon.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Humanizer.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\NotifyIconWpf.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.CodeDom.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.AssemblyReference.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfoInputs.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.AssemblyInfo.cs
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.csproj.CopyComplete
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\refint\WeddingPlanner.dll
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.pdb
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\WeddingPlanner.genruntimeconfig.cache
+D:\Interview Projects\Wedding Planner\Project\Project (2)\WeddingPlanner\obj\Debug\net7.0\ref\WeddingPlanner.dll

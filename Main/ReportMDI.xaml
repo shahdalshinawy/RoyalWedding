@@ -1,0 +1,105 @@
+﻿<Window x:Class="Main.ReportMDI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Main"
+        mc:Ignorable="d"
+        Title="ReportMDI"  
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Height="542" Width="814">
+
+    <Border>
+        <Border.Background>
+            <ImageBrush ImageSource="Img/Large.png" Stretch="Fill">
+            </ImageBrush>
+        </Border.Background>
+
+        <Grid Loaded="Grid_Loaded" Margin="10,27,0,0">
+            <Image Source="Img/logo.png" RenderTransformOrigin="1,0.5" Margin="171,137,196,177" Opacity="0.3"  >
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.259"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="5.49628"/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+
+            </Image>
+
+            <TextBlock HorizontalAlignment="Left" Margin="181,119,0,0" TextWrapping="Wrap" Text="Customer Name :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="29" Width="152" RenderTransformOrigin="0.678,0.657" />
+            <TextBlock x:Name="CustomerName" HorizontalAlignment="Left" Margin="484,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="TextBlock" RenderTransformOrigin="0.629,0.667"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100"/>
+
+            <TextBlock HorizontalAlignment="Left" Margin="181,145,0,0" TextWrapping="Wrap" Text="Hall Name :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="29" Width="152" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="HallName" HorizontalAlignment="Left" Margin="484,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="TextBlock" RenderTransformOrigin="0.629,0.667"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100"/>
+
+
+
+            <TextBlock HorizontalAlignment="Left" Margin="181,174,0,0" TextWrapping="Wrap" Text="Date :" VerticalAlignment="Top" RenderTransformOrigin="2.146,0.282"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100"  />
+            <TextBlock x:Name="date" HorizontalAlignment="Left" Margin="484,174,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock HorizontalAlignment="Left" Margin="181,204,0,0" TextWrapping="Wrap" Text="Number of people :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="20" Width="151" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="numofpeople" HorizontalAlignment="Left" Margin="484,204,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="total" HorizontalAlignment="Left" Margin="181,240,0,0" TextWrapping="Wrap" Text="Total payment :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="24" Width="134" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="payment" HorizontalAlignment="Left" Margin="484,240,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock HorizontalAlignment="Left" Margin="181,274,0,0" TextWrapping="Wrap" Text="Advance :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="advance" HorizontalAlignment="Left" Margin="484,274,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock HorizontalAlignment="Left" Margin="181,311,0,0" TextWrapping="Wrap" Text="Balance :" VerticalAlignment="Top"  Foreground="Olive" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock x:Name="balance" HorizontalAlignment="Left" Margin="484,311,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="Brown" FontSize="18" FontWeight="Heavy" FontFamily="Times New Roman" Height="16" Width="100" RenderTransformOrigin="0.5,0.5" />
+            <TextBlock  TextWrapping="Wrap" Text="Let’s have a memorable evening together" FontSize="18" FontWeight="Heavy" FontFamily="Harlow Solid Italic" Height="28" Width="368" RenderTransformOrigin="0.5,0.5" Margin="223,51,223,0" VerticalAlignment="Top" >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Firebrick"/>
+                        <GradientStop Color="#FF4AF17C" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+
+            <Button
+                    x:Name="Closebtn"
+                    Content="Close"
+                    BorderThickness="0"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    FontFamily="Times New Roman"
+                    Cursor="Hand"  
+                    RenderTransformOrigin="1,1"
+                    Click="Close_Click"
+                    Margin="0,331,0,0" 
+                    VerticalAlignment="Top"  Height="74"
+                    HorizontalAlignment="Center"
+                    Width="110" FontSize="18">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="Olive"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="Brown"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100" Height="35"
+                                        CornerRadius="20"
+                                        Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="90" X="0"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+            <TextBlock x:Name="StaffName" HorizontalAlignment="Left" Margin="501,366,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"  Foreground="#FF80BD50" FontSize="18" FontWeight="Heavy" FontFamily="Segoe Script" Height="23" Width="99" RenderTransformOrigin="0.5,0.5" FontStyle="Italic" />
+        </Grid>
+    </Border>
+</Window>
